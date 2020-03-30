@@ -1,5 +1,7 @@
 numpy
+scipy
 pandas
 xlrd
 matplotlib
 iso3166
+sklearn
